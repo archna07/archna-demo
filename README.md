@@ -1,3 +1,3 @@
 # archna-demo
-This is my first git repository
-author- Archna Behera
+This is my first git repository.
+Author- Archna Behera.
